@@ -1,11 +1,3 @@
-# <img src="https://d3vv6lp55qjaqc.cloudfront.net/items/1L1w0v431V0d1K410f3Y/keepAChangelog-logo-dark.svg" height=150 alt="Keep a Changelog" />
-
-[![Keep a Changelog v1.1.0 badge][changelog-badge]][changelog] [![Version 1.1.0 Badge][version-badge]][changelog] [![MIT License Badge][license-badge]][license]
-
-Don’t let your friends dump git logs into changelogs™
-
-This repository generates https://keepachangelog.com/.
-
 ## Development
 
 ### Dependencies
